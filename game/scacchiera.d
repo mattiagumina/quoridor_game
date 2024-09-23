@@ -1,0 +1,14 @@
+.\scacchiera.o: scacchiera\scacchiera.c
+.\scacchiera.o: scacchiera\scacchiera.h
+.\scacchiera.o: scacchiera\../GLCD/GLCD.h
+.\scacchiera.o: C:\Users\Mattia\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\scacchiera.o: C:\Users\Mattia\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\scacchiera.o: C:\Keil_v5\ARM\compiler5\Bin\..\include\stdint.h
+.\scacchiera.o: C:\Users\Mattia\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\scacchiera.o: C:\Users\Mattia\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\scacchiera.o: C:\Users\Mattia\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\scacchiera.o: C:\Users\Mattia\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\scacchiera.o: C:\Users\Mattia\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\scacchiera.o: scacchiera\../timer/timer.h
+.\scacchiera.o: scacchiera\../RIT/RIT.h
+.\scacchiera.o: scacchiera\../templates/templates.h

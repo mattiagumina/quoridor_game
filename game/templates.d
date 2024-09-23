@@ -1,0 +1,11 @@
+.\templates.o: templates\templates.c
+.\templates.o: templates\templates.h
+.\templates.o: templates\../GLCD/GLCD.h
+.\templates.o: C:\Users\Mattia\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\templates.o: C:\Users\Mattia\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\templates.o: C:\Keil_v5\ARM\compiler5\Bin\..\include\stdint.h
+.\templates.o: C:\Users\Mattia\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\templates.o: C:\Users\Mattia\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\templates.o: C:\Users\Mattia\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\templates.o: C:\Users\Mattia\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\templates.o: C:\Users\Mattia\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
